@@ -1,0 +1,295 @@
+{
+ "meta": {
+  "laboratorio": "Rodríguez Granados Laboratorio Dental",
+  "listaPrecios": "2026",
+  "moneda": "COP"
+ },
+ "categorias": [
+  {
+   "id": "temporales",
+   "nombre": "Temporales y barras"
+  },
+  {
+   "id": "parciales-acrilico",
+   "nombre": "Parciales en acrílico de alto impacto"
+  },
+  {
+   "id": "protesis-totales",
+   "nombre": "Prótesis totales"
+  },
+  {
+   "id": "estructura-removible",
+   "nombre": "Estructura removible"
+  },
+  {
+   "id": "parciales-veracryl",
+   "nombre": "Parciales en Veracryl"
+  },
+  {
+   "id": "otros",
+   "nombre": "Otros servicios"
+  }
+ ],
+ "productos": [
+  {
+   "id": "temp-alta-estetica",
+   "categoria": "temporales",
+   "nombre": "Temporales de alta estética",
+   "rango": null,
+   "unidad": "Unidad",
+   "dientes": "Biodent",
+   "precio": 54000
+  },
+  {
+   "id": "temp-implante",
+   "categoria": "temporales",
+   "nombre": "Temporales sobre implante",
+   "rango": null,
+   "unidad": "Unidad",
+   "dientes": "Biodent",
+   "precio": 57000
+  },
+  {
+   "id": "barra-enfilado-acrilado",
+   "categoria": "temporales",
+   "nombre": "Enfilado y acrilado barra",
+   "rango": null,
+   "unidad": "Unidad",
+   "dientes": "Biodent",
+   "precio": 632000
+  },
+  {
+   "id": "barra-opacada",
+   "categoria": "temporales",
+   "nombre": "Opacada de barra",
+   "rango": null,
+   "unidad": null,
+   "dientes": null,
+   "precio": 67000
+  },
+  {
+   "id": "parcial-acrilico-1-3",
+   "categoria": "parciales-acrilico",
+   "nombre": "Parcial enfilado y acrilado por póntico",
+   "rango": "1–3",
+   "unidad": null,
+   "dientes": "Biodent",
+   "precio": 145000
+  },
+  {
+   "id": "parcial-acrilico-4-7",
+   "categoria": "parciales-acrilico",
+   "nombre": "Parcial enfilado y acrilado por póntico",
+   "rango": "4–7",
+   "unidad": null,
+   "dientes": "Biodent",
+   "precio": 313000
+  },
+  {
+   "id": "parcial-acrilico-8-10",
+   "categoria": "parciales-acrilico",
+   "nombre": "Parcial enfilado y acrilado por póntico",
+   "rango": "8–10",
+   "unidad": null,
+   "dientes": "Biodent",
+   "precio": 374000
+  },
+  {
+   "id": "total-alto-impacto",
+   "categoria": "protesis-totales",
+   "nombre": "Total en alto impacto",
+   "rango": null,
+   "unidad": "Unidad",
+   "dientes": "Biodent",
+   "precio": 462000
+  },
+  {
+   "id": "total-veracryl",
+   "categoria": "protesis-totales",
+   "nombre": "Total en Veracryl",
+   "rango": null,
+   "unidad": "Unidad",
+   "dientes": "Biodent",
+   "precio": 374000
+  },
+  {
+   "id": "protesis-flexible-poliamida",
+   "categoria": "protesis-totales",
+   "nombre": "Prótesis flexible en poliamida",
+   "rango": null,
+   "unidad": "Unidad",
+   "dientes": "Biodent",
+   "precio": 468000
+  },
+  {
+   "id": "acker-flexible",
+   "categoria": "protesis-totales",
+   "nombre": "Acker flexible hasta 2 unidades",
+   "rango": null,
+   "unidad": "Unidad",
+   "dientes": "Biodent",
+   "precio": 250000
+  },
+  {
+   "id": "estructura-removible",
+   "categoria": "estructura-removible",
+   "nombre": "Estructura removible",
+   "rango": null,
+   "unidad": "Unidad",
+   "dientes": null,
+   "precio": 326000
+  },
+  {
+   "id": "estructura-completa-1-3",
+   "categoria": "estructura-removible",
+   "nombre": "Estructura + rodetes + enfilado + acrilado por póntico removible",
+   "rango": "1–3",
+   "unidad": null,
+   "dientes": "Biodent",
+   "precio": 471000
+  },
+  {
+   "id": "estructura-completa-4-7",
+   "categoria": "estructura-removible",
+   "nombre": "Estructura + rodetes + enfilado + acrilado por póntico removible",
+   "rango": "4–7",
+   "unidad": null,
+   "dientes": "Biodent",
+   "precio": 639000
+  },
+  {
+   "id": "estructura-completa-8-10",
+   "categoria": "estructura-removible",
+   "nombre": "Estructura + rodetes + enfilado + acrilado por póntico removible",
+   "rango": "8–10",
+   "unidad": null,
+   "dientes": "Biodent",
+   "precio": 700000
+  },
+  {
+   "id": "parcial-veracryl-1-3",
+   "categoria": "parciales-veracryl",
+   "nombre": "Rodetes + enfilado + acrilado en Veracryl",
+   "rango": "1–3",
+   "unidad": null,
+   "dientes": "Biodent",
+   "precio": 95000
+  },
+  {
+   "id": "parcial-veracryl-4-7",
+   "categoria": "parciales-veracryl",
+   "nombre": "Rodetes + enfilado + acrilado en Veracryl",
+   "rango": "4–7",
+   "unidad": null,
+   "dientes": "Biodent",
+   "precio": 219000
+  },
+  {
+   "id": "parcial-veracryl-8-10",
+   "categoria": "parciales-veracryl",
+   "nombre": "Rodetes + enfilado + acrilado en Veracryl",
+   "rango": "8–10",
+   "unidad": null,
+   "dientes": "Biodent",
+   "precio": 314000
+  },
+  {
+   "id": "enfilado-diagnostico",
+   "categoria": "otros",
+   "nombre": "Enfilado de diagnóstico",
+   "rango": null,
+   "unidad": null,
+   "dientes": "Biodent",
+   "precio": 170000
+  },
+  {
+   "id": "cubeta-individual",
+   "categoria": "otros",
+   "nombre": "Cubeta individual",
+   "rango": null,
+   "unidad": "Unidad",
+   "dientes": null,
+   "precio": 68000
+  },
+  {
+   "id": "guia-quirurgica",
+   "categoria": "otros",
+   "nombre": "Guía quirúrgica convencional",
+   "rango": null,
+   "unidad": "Unidad",
+   "dientes": null,
+   "precio": 130000
+  },
+  {
+   "id": "reparacion-protesis",
+   "categoria": "otros",
+   "nombre": "Reparación de prótesis totales o parciales",
+   "rango": null,
+   "unidad": null,
+   "dientes": null,
+   "precio": 132000
+  },
+  {
+   "id": "ganchos-flexibles",
+   "categoria": "otros",
+   "nombre": "Ganchos flexibles en parciales acrílicas o removibles",
+   "rango": null,
+   "unidad": "Unidad",
+   "dientes": null,
+   "precio": 38000
+  },
+  {
+   "id": "rebase",
+   "categoria": "otros",
+   "nombre": "Rebase en parciales o totales",
+   "rango": null,
+   "unidad": "Unidad",
+   "dientes": null,
+   "precio": 138000
+  },
+  {
+   "id": "rebase-hibrida",
+   "categoria": "otros",
+   "nombre": "Rebase híbrida",
+   "rango": null,
+   "unidad": "Unidad",
+   "dientes": null,
+   "precio": 148000
+  }
+ ],
+ "tabletasDientes": {
+  "nota": "Con costo adicional",
+  "items": [
+   {
+    "id": "dientes-duratone",
+    "nombre": "Dientes Duratone",
+    "presentacion": "Tableta",
+    "precio": 35000
+   },
+   {
+    "id": "dientes-tiziano",
+    "nombre": "Dientes Tiziano",
+    "presentacion": "Tableta",
+    "precio": 27000
+   },
+   {
+    "id": "dientes-super-c",
+    "nombre": "Dientes Super C",
+    "presentacion": "Tableta",
+    "precio": 27000
+   },
+   {
+    "id": "dientes-ivostar",
+    "nombre": "Dientes Ivostar",
+    "presentacion": "Tableta",
+    "precio": 36000
+   },
+   {
+    "id": "dientes-isosit",
+    "nombre": "Dientes Isosit",
+    "presentacion": "Tableta",
+    "precio": 130000
+   }
+  ]
+ }
+}
